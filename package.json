@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "cozy-konnector-libs": "4.51.0",
-    "zombie": "^6.1.4"
+    "zombie": "6.1.4"
   },
   "devDependencies": {
     "cozy-jobs-cli": "1.17.4",
